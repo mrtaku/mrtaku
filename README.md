@@ -5,7 +5,7 @@
 <br><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mrtaku&theme=react&hide_border=true&border_radius=4&card_width=684)](https://git.io/streak-stats)
 <br>
-![]([http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrtaku&theme=react](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrtaku&theme=react) )
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrtaku&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrtaku&theme=react)
 <br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrtaku&theme=react)
