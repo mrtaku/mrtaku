@@ -8,7 +8,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrtaku&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrtaku&theme=react)
 <br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrtaku&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrtaku&theme=react&utcOffset=8)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrtaku&theme=react)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrtaku&theme=react&utcOffset=8)
 <br>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
