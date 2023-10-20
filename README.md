@@ -11,4 +11,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrtaku&theme=react)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrtaku&theme=react&utcOffset=8)
 <br>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mrtaku/count.svg" />
+</p>
